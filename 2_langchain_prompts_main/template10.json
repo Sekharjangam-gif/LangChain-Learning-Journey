@@ -1,0 +1,21 @@
+{
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+        "langchain",
+        "prompts",
+        "prompt",
+        "PromptTemplate"
+    ],
+    "kwargs": {
+        "input_variables": [
+            "charecter1",
+            "charecter2",
+            "charecter3"
+        ],
+        "template": "You will be give by the some cartoon charecters with names like {charecter1},\n               {charecter2},{charecter3} using these charecters you need to make a story",
+        "template_format": "f-string",
+        "validate_template": true
+    },
+    "name": "PromptTemplate"
+}
